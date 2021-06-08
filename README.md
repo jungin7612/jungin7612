@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threejs&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
-  <hr>
   <br>
 </p>
 <h3><li> 💥 I’m currently interested in... </li></h3>
@@ -24,8 +23,11 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
 </p>
 
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
+<hr>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungin7612&&show_icons=true&theme=synthwave)]
+
 <!--
 **jungin7612/jungin7612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
