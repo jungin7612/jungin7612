@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jungin%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jungin%20Kim&fontSize=90) 
 
 ### 안녕하세요 👋
 ### 저는 한국디지털미디어고등학교 웹프로그래밍과에 재학중인 18살 고등학생입니다
@@ -28,6 +28,7 @@
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungin7612&&show_icons=true&theme=highcontrast)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungin7612&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **jungin7612/jungin7612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
